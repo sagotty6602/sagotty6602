@@ -6,7 +6,7 @@
 ### Where am I studying. 📚
 >I am studying **software engineering** at **University of Phayao.** 🎓
 
-
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sagotty6602&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
