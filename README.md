@@ -3,7 +3,7 @@
 > My name is **Peerawat Thongpoem.** 🔥
 
 > My nickname is **Got.** 💫
-### Where am i studying. 📚
+### Where am I studying. 📚
 >I am studying at **University of Phayao.** 🎓
 
 <!--
