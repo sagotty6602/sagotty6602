@@ -1,4 +1,4 @@
-### Who I am 🚀
+### Who am I 🚀
 > My name is **Peerawat Thongpoem.** 🔥
 
 > My nickname is **Got.** 💫
