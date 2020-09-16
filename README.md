@@ -4,7 +4,7 @@
 
 > My nickname is **Got.** 💫
 ### Where am I studying. 📚
->I am studying at **University of Phayao.** 🎓
+>I am studying **software engineering** at **University of Phayao.** 🎓
 
 <!--
 **sagotty6602/sagotty6602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
