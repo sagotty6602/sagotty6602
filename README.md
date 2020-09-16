@@ -1,9 +1,10 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-### Who am I 🚀
+### Who am I. 🚀
 > My name is **Peerawat Thongpoem.** 🔥
 
 > My nickname is **Got.** 💫
-
+### Where am i studying. 📚
+>I am studying at **University of Phayao.** 🎓
 
 <!--
 **sagotty6602/sagotty6602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
